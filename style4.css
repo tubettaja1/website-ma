@@ -40,3 +40,10 @@ a:hover{
     box-shadow: 0 0 10px #255784, 0 0 40px #255784, 0 0 80px #255784;
 }
 
+p {
+    color: white;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: larger;
+}
+
